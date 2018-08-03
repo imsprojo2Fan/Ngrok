@@ -1,0 +1,127 @@
+[2018/08/03 13:44:31 CST] [INFO] (ngrok/log.Info:112) Reading configuration file ngrok.cfg
+[2018/08/03 13:44:31 CST] [INFO] (ngrok/log.(*PrefixLogger).Info:83) [client] Trusting root CAs: [assets/client/tls/ngrokroot.crt]
+[2018/08/03 13:44:31 CST] [INFO] (ngrok/log.(*PrefixLogger).Info:83) [view] [web] Serving web interface on 127.0.0.1:4040
+[2018/08/03 13:44:31 CST] [INFO] (ngrok/log.Info:112) Checking for update
+[2018/08/03 13:44:31 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2018/08/03 13:44:32 CST] [INFO] (ngrok/log.Info:112) No update available
+[2018/08/03 13:44:32 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:63fb3d1a] New connection to: 144.202.13.218:4443
+[2018/08/03 13:44:32 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:63fb3d1a] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2018/08/03 13:44:32 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:63fb3d1a] Closing
+[2018/08/03 13:44:32 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate signed by unknown authority (possibly because of "crypto/rsa: verification error" while trying to verify candidate authority certificate "ngrok.zooori.cn")
+[2018/08/03 13:44:32 CST] [INFO] (ngrok/log.Info:112) Waiting 1 seconds before reconnecting
+[2018/08/03 13:44:33 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2018/08/03 13:44:34 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:5b3bb734] New connection to: 144.202.13.218:4443
+[2018/08/03 13:44:34 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:5b3bb734] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2018/08/03 13:44:34 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:5b3bb734] Closing
+[2018/08/03 13:44:34 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate signed by unknown authority (possibly because of "crypto/rsa: verification error" while trying to verify candidate authority certificate "ngrok.zooori.cn")
+[2018/08/03 13:44:34 CST] [INFO] (ngrok/log.Info:112) Waiting 2 seconds before reconnecting
+[2018/08/03 13:44:36 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2018/08/03 13:44:37 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:4fa9685b] New connection to: 144.202.13.218:4443
+[2018/08/03 13:44:37 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:4fa9685b] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2018/08/03 13:44:37 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:4fa9685b] Closing
+[2018/08/03 13:44:37 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate signed by unknown authority (possibly because of "crypto/rsa: verification error" while trying to verify candidate authority certificate "ngrok.zooori.cn")
+[2018/08/03 13:44:37 CST] [INFO] (ngrok/log.Info:112) Waiting 4 seconds before reconnecting
+[2018/08/03 13:44:41 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2018/08/03 13:44:41 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:42594448] New connection to: 144.202.13.218:4443
+[2018/08/03 13:44:41 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:42594448] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2018/08/03 13:44:42 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:42594448] Closing
+[2018/08/03 13:44:42 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate signed by unknown authority (possibly because of "crypto/rsa: verification error" while trying to verify candidate authority certificate "ngrok.zooori.cn")
+[2018/08/03 13:44:42 CST] [INFO] (ngrok/log.Info:112) Waiting 8 seconds before reconnecting
+[2018/08/03 13:44:50 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2018/08/03 13:44:53 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:10c56b5f] New connection to: 144.202.13.218:4443
+[2018/08/03 13:44:53 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:10c56b5f] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2018/08/03 13:44:55 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:10c56b5f] Closing
+[2018/08/03 13:44:55 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate signed by unknown authority (possibly because of "crypto/rsa: verification error" while trying to verify candidate authority certificate "ngrok.zooori.cn")
+[2018/08/03 13:44:55 CST] [INFO] (ngrok/log.Info:112) Waiting 16 seconds before reconnecting
+[2018/08/03 13:45:11 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2018/08/03 13:45:11 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:77d73501] New connection to: 144.202.13.218:4443
+[2018/08/03 13:45:11 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:77d73501] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2018/08/03 13:45:11 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:77d73501] Closing
+[2018/08/03 13:45:11 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate signed by unknown authority (possibly because of "crypto/rsa: verification error" while trying to verify candidate authority certificate "ngrok.zooori.cn")
+[2018/08/03 13:45:11 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2018/08/03 13:45:41 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2018/08/03 13:45:42 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:2f128708] New connection to: 144.202.13.218:4443
+[2018/08/03 13:45:42 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:2f128708] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2018/08/03 13:45:42 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:2f128708] Closing
+[2018/08/03 13:45:42 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate signed by unknown authority (possibly because of "crypto/rsa: verification error" while trying to verify candidate authority certificate "ngrok.zooori.cn")
+[2018/08/03 13:45:42 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2018/08/03 13:46:12 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2018/08/03 13:46:13 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:1145697f] New connection to: 144.202.13.218:4443
+[2018/08/03 13:46:13 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:1145697f] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2018/08/03 13:46:13 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:1145697f] Closing
+[2018/08/03 13:46:13 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate signed by unknown authority (possibly because of "crypto/rsa: verification error" while trying to verify candidate authority certificate "ngrok.zooori.cn")
+[2018/08/03 13:46:13 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2018/08/03 13:46:43 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2018/08/03 13:46:43 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:cf96c23] New connection to: 144.202.13.218:4443
+[2018/08/03 13:46:43 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:cf96c23] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2018/08/03 13:46:44 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:cf96c23] Closing
+[2018/08/03 13:46:44 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate signed by unknown authority (possibly because of "crypto/rsa: verification error" while trying to verify candidate authority certificate "ngrok.zooori.cn")
+[2018/08/03 13:46:44 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2018/08/03 13:47:14 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2018/08/03 13:47:14 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:4f659fef] New connection to: 144.202.13.218:4443
+[2018/08/03 13:47:14 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:4f659fef] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2018/08/03 13:47:15 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:4f659fef] Closing
+[2018/08/03 13:47:15 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate signed by unknown authority (possibly because of "crypto/rsa: verification error" while trying to verify candidate authority certificate "ngrok.zooori.cn")
+[2018/08/03 13:47:15 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2018/08/03 13:47:45 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2018/08/03 13:47:45 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:289ccc06] New connection to: 144.202.13.218:4443
+[2018/08/03 13:47:45 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:289ccc06] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2018/08/03 13:47:46 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:289ccc06] Closing
+[2018/08/03 13:47:46 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate signed by unknown authority (possibly because of "crypto/rsa: verification error" while trying to verify candidate authority certificate "ngrok.zooori.cn")
+[2018/08/03 13:47:46 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2018/08/03 13:48:16 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2018/08/03 13:48:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:2ddfcf4d] New connection to: 144.202.13.218:4443
+[2018/08/03 13:48:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:2ddfcf4d] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2018/08/03 13:48:19 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:2ddfcf4d] Closing
+[2018/08/03 13:48:19 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate signed by unknown authority (possibly because of "crypto/rsa: verification error" while trying to verify candidate authority certificate "ngrok.zooori.cn")
+[2018/08/03 13:48:19 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2018/08/03 13:48:49 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2018/08/03 13:48:49 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:e873d41] New connection to: 144.202.13.218:4443
+[2018/08/03 13:48:49 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:e873d41] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2018/08/03 13:48:49 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:e873d41] Closing
+[2018/08/03 13:48:49 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate signed by unknown authority (possibly because of "crypto/rsa: verification error" while trying to verify candidate authority certificate "ngrok.zooori.cn")
+[2018/08/03 13:48:49 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2018/08/03 13:49:19 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2018/08/03 13:49:20 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:605c09a0] New connection to: 144.202.13.218:4443
+[2018/08/03 13:49:20 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:605c09a0] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2018/08/03 13:49:25 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:605c09a0] Closing
+[2018/08/03 13:49:25 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate signed by unknown authority (possibly because of "crypto/rsa: verification error" while trying to verify candidate authority certificate "ngrok.zooori.cn")
+[2018/08/03 13:49:25 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2018/08/03 13:49:55 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2018/08/03 13:49:59 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:33581d43] New connection to: 144.202.13.218:4443
+[2018/08/03 13:49:59 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:33581d43] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2018/08/03 13:49:59 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:33581d43] Closing
+[2018/08/03 13:49:59 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate signed by unknown authority (possibly because of "crypto/rsa: verification error" while trying to verify candidate authority certificate "ngrok.zooori.cn")
+[2018/08/03 13:49:59 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2018/08/03 13:50:29 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2018/08/03 13:50:29 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:4eb2b436] New connection to: 144.202.13.218:4443
+[2018/08/03 13:50:29 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:4eb2b436] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2018/08/03 13:50:30 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:4eb2b436] Closing
+[2018/08/03 13:50:30 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate signed by unknown authority (possibly because of "crypto/rsa: verification error" while trying to verify candidate authority certificate "ngrok.zooori.cn")
+[2018/08/03 13:50:30 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2018/08/03 13:51:00 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2018/08/03 13:51:00 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:4459bf06] New connection to: 144.202.13.218:4443
+[2018/08/03 13:51:00 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:4459bf06] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2018/08/03 13:51:01 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:4459bf06] Closing
+[2018/08/03 13:51:01 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate signed by unknown authority (possibly because of "crypto/rsa: verification error" while trying to verify candidate authority certificate "ngrok.zooori.cn")
+[2018/08/03 13:51:01 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2018/08/03 13:51:31 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2018/08/03 13:51:31 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:3590b78a] New connection to: 144.202.13.218:4443
+[2018/08/03 13:51:31 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:3590b78a] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2018/08/03 13:51:31 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:3590b78a] Closing
+[2018/08/03 13:51:31 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate signed by unknown authority (possibly because of "crypto/rsa: verification error" while trying to verify candidate authority certificate "ngrok.zooori.cn")
+[2018/08/03 13:51:31 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2018/08/03 13:52:01 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2018/08/03 13:52:04 CST] [EROR] (ngrok/log.Error:120) control recovering from failure dial tcp 144.202.13.218:4443: connectex: No connection could be made because the target machine actively refused it.
+[2018/08/03 13:52:04 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2018/08/03 13:52:34 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2018/08/03 13:52:36 CST] [EROR] (ngrok/log.Error:120) control recovering from failure dial tcp 144.202.13.218:4443: connectex: No connection could be made because the target machine actively refused it.
+[2018/08/03 13:52:36 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2018/08/03 13:53:06 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2018/08/03 13:53:07 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:468db190] New connection to: 144.202.13.218:4443
+[2018/08/03 13:53:07 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:468db190] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2018/08/03 13:53:09 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:468db190] Closing
+[2018/08/03 13:53:09 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate signed by unknown authority (possibly because of "crypto/rsa: verification error" while trying to verify candidate authority certificate "ngrok.zooori.cn")
+[2018/08/03 13:53:09 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2018/08/03 13:53:32 CST] [INFO] (ngrok/log.(*PrefixLogger).Info:83) [view] [term] Got quit command
+[2018/08/03 13:53:32 CST] [INFO] (ngrok/log.(*PrefixLogger).Info:83) [controller] Shutting down
